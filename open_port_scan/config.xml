@@ -1,0 +1,11 @@
+<configwizard>
+    <plugins>
+        <plugin filename="open_port_scanner.sh"/>
+    </plugins>
+    <templates>
+        <template filename="open_port_scan.cfg"/>
+    </templates>
+    <logos>
+        <logo filename="open_port_scan.png"/>
+    </logos>
+</configwizard>
